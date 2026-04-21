@@ -1,4 +1,4 @@
-# Hire Nepal
+# Hire India
 
 A Job Portal Website that connects job seekers with employers. It includes NLP powered Job Matching and Applicant Ranking System.
 
@@ -21,62 +21,3 @@ A Job Portal Website that connects job seekers with employers. It includes NLP p
 - **Back-end:** Django REST Framework, PyMuPDF
 - **NLP:** spaCy, Sentence Transformers
 
-## Project Setup
-
-To run this app locally, clone this repo and install the dependencies.
-
-```bash
-git clone https://github.com/The-SP/Job-Portal-Frontend.git
-cd Job-Portal-Frontend
-npm install
-```
-
-## Backend
-
-[Backend Repo Link](https://github.com/The-SP/Job-Portal-Backend)  
-You can use the link above to access the code for the backend api of the project.
-
-## Screenshots
-
-<table>
-  <tr>
-    <td>Homepage</td>
-    <td>Services</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/homepage.png"></td>
-    <td><img src="./screenshots/services.png"></td>
-  </tr>
-  <tr>
-    <td>Job List</td>
-    <td>Job Detail</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/job-list.png"></td>
-    <td><img src="./screenshots/job-detail.png"></td>
-  </tr>
-  <tr>
-    <td>Profile</td>
-    <td>Job Recommendation</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/profile.png"></td>
-    <td><img src="./screenshots/rec.png"></td>
-  </tr>
-  <tr>
-    <td>Resume Builder</td>
-    <td>Cover Letter Builder</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/resume.png"></td>
-    <td><img src="./screenshots/cover-letter.png"></td>
-  </tr>
-  <tr>
-    <td>Applicant Ranking</td>
-    <td>Ranking Visualization</td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/ranking.png"></td>
-    <td><img src="./screenshots/plot.png"></td>
-  </tr>
-</table>
